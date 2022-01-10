@@ -1,1 +1,1 @@
-# serverlessalgo
+Cette API contient l'ensemble des fonctions relative a la nouvelle structure de l'API EJARA

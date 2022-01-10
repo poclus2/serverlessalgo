@@ -1,0 +1,6 @@
+{
+    "dbhost" : "ejaradb.colfljowwrps.us-west-2.rds.amazonaws.com",
+    "dbname" : "ejara-db",
+    "dbuser" :"admin",
+    "dbpassword" :"Gh2jxkxOdWss"
+}

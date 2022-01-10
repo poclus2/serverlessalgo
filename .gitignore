@@ -1,0 +1,84 @@
+/node_modules
+/AddMoney/CancelTransaction/node_modules
+/AddMoney/GenerateTransactionMonetbil/node_modules
+/AddMoney/GetFees/node_modules
+/AddMoney/GetTransactions/node_modules
+/AddMoney/SaveTransaction/node_modules
+/AddMoney/UpdateSuceesMonetbilTransaction/node_modules
+/BTCWallet/GetReceiveAddress/node_modules
+/BTCWallet/GetSendFees/node_modules
+/BTCWallet/GetTransactions/node_modules
+/BTCWallet/SendTx/node_modules
+/BTCWallet/SendTxUser/node_modules
+/BuyCrypto/CancelTransaction/node_modules
+/BuyCrypto/GetCryptoInfo/node_modules
+/BuyCrypto/GetFees/node_modules
+/BuyCrypto/GetTransactions/node_modules
+/BuyCrypto/PreviewTransactionDetails/node_modules
+/BuyCrypto/SaveTransaction/node_modules
+/Change Password/ChangePassword/node_modules
+/Cognito/node_modules
+/Create Account/CheckEmail/node_modules
+/Create Account/CheckPhoneNumber/node_modules
+/Create Account/CheckUsername/node_modules
+/Create Account/CreateWallet/node_modules
+/Create Account/SaveAccount/node_modules
+/GetBalance/GetBalanceAll/node_modules
+/GetBalance/GetBalanceBTC/node_modules
+/GetBalance/GetBalanceCFA/node_modules
+/GetBalance/GetBalanceXTZ/node_modules
+/Login/Login/node_modules
+/Modify Profil/ModifyProfil/node_modules
+/PriceDisplay/GetCryptoPrice/node_modules
+/PriceDisplay/GetCryptoPriceVariation/node_modules
+/XTZWallet/GetSendFees/node_modules
+/XTZWallet/GetTransactions/node_modules
+/XTZWallet/RecoveryWallet/node_modules
+/XTZWallet/SendTx/node_modules
+/XTZWallet/SendTxUser/node_modules
+/ServicesManagement/GetBackupMnemonicStatut/node_modules
+/ServicesManagement/GetServicesAvailability/node_modules
+/ServicesManagement/ReportCase/node_modules
+/ServicesManagement/SetBackupMnemonicStatut/node_modules
+/ServicesManagement/SetLockAccount/node_modules
+/ServicesManagement/SetServicesAvailability/node_modules
+/ServicesManagement/SetServicesAvailabilityForUser/node_modules
+AddMoney/GetTransactions/GetTransactions.zip
+AddMoney/CancelTransaction/CancelTransaction.zip
+AddMoney/GenerateTransactionMonetbil/GenerateTransactionMonetbil.zip
+AddMoney/GetFees/GetFees.zip
+AddMoney/SaveTransaction/SaveTransaction.zip
+AddMoney/UpdateSuceesMonetbilTransaction/UpdateSuceesMonetbilTransaction.zip
+BTCWallet/GetSendFees/GetSendFees.zip
+BTCWallet/GetReceiveAddress/GetReceiveAddress.zip
+BTCWallet/SendTx/SendTx.zip
+BuyCrypto/CancelTransaction/CancelTransaction.zip
+BuyCrypto/GetCryptoInfo/GetCryptoInfo.zip
+BuyCrypto/GetFees/GetFees.zip
+BuyCrypto/GetTransactions/GetTransactions.zip
+BuyCrypto/PreviewTransactionDetails/PreviewTransactionDetails.zip
+BTCWallet/SendTxUser/SendTxUser.zip
+BuyCrypto/SaveTransaction/SaveTransaction.zip
+Change Password/ChangePassword/ChangePassword.zip
+Create Account/CheckEmail/CheckEmail.zip
+Create Account/CheckPhoneNumber/CheckPhoneNumber.zip
+Create Account/CreateWallet/CreateWallet.zip
+Create Account/SaveAccount/SaveAccount.zip
+XTZWallet/SendTx/Send.zip
+XTZWallet/RecoveryWallet/RecoveryWallet.zip
+XTZWallet/GetTransactions/GetTransactions.zip
+XTZWallet/SendTxUser/SendTxUser.zip
+XTZWallet/GetSendFees/GetSendFees.zip
+ServicesManagement/SetServicesAvailability/SetServicesAvailability.zip
+ServicesManagement/SetServicesAvailabilityForUser/SetServicesAvailabilityForUser.zip
+ServicesManagement/SetBackupMnemonicStatut/SetBackupMnemonicStatut.zip
+ServicesManagement/SetLockAccount/SetLockAccount.zip
+ServicesManagement/ReportCase/ReportCase.zip
+ServicesManagement/GetServicesAvailability/GetServicesAvailability.zip
+ServicesManagement/GetBackupMnemonicStatut/GetBackupMnemonicStatut.zip
+PriceDisplay/GetCryptoPriceVariation/GetCryptoPriceVariation.zip
+Modify Profil/ModifyProfil/ModifyProfil.zip
+Login/Login/Login.zip
+GetBalance/GetBalanceXTZ/GetBalanceXTZ.zip
+GetBalance/GetBalanceBTC/GetBalanceBTC.zip
+GetBalance/GetBalanceAll/GetBalanceAll.zip

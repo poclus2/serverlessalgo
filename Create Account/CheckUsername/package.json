@@ -1,0 +1,23 @@
+{
+  "name": "mysqllambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikhael KAMDEM",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^4.2.1",
+    "aws-sdk": "^2.658.0",
+    "crypto": "^1.0.1",
+    "fetch": "^1.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwk-to-pem": "^2.0.3",
+    "msql": "^1.0.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}
